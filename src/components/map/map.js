@@ -2,7 +2,7 @@ import React,{useContext} from "react";
 import GoogleMapReact from "google-map-react";
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 
-import {locationContext} from './../../app';
+import {locationContext} from './../../App';
 
 const Map = () => {
 

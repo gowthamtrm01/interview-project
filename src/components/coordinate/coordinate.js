@@ -2,7 +2,7 @@ import React,{useContext} from 'react';
 import { Typography, Grid, Button } from '@mui/material';
 
 import useStyles from './style';
-import {locationContext} from './../../app';
+import {locationContext} from './../../App';
 
 const Coordinate = () => {
 

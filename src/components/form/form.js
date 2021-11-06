@@ -2,7 +2,7 @@ import React,{useState, useContext} from 'react';
 import { Button, Grid} from '@mui/material';
 
 import useStyles from './style'
-import {locationContext} from './../../app';
+import {locationContext} from './../../App';
 
 const initialState = { location: '', lat: '', lng: ''}
 
